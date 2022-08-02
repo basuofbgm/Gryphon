@@ -1,0 +1,260 @@
+# Webalizer V2.23-08 Incremental Data - 06/30/2016 01:41:07
+2016 6 30 1 41 7
+136 69 7 34 11 4 3174006 19 7 0
+7 117 117 30 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+136 69 3174006 7 19 7
+0 0 0 0 0 0
+19 4 26632 5
+117 65 3147374 14
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+69
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+67
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/Images/WorkLoad.png
+1 1 0 18906 0 0
+/faq.html
+0 1 0 15673 0 0
+/Images/infrastructure_banner.jpg
+1 3 0 161385 0 0
+/about.html
+0 1 0 15406 0 0
+/Images/DCMobilePad.jpg
+1 3 0 75318 0 0
+/font-awesome/fonts/fontawesome-webfont.woff
+0 1 0 65452 0 0
+/js/contact_me.js
+0 1 0 309 0 0
+/js/bootstrap.min.js
+0 2 0 624 0 0
+/js/jquery.js
+0 2 0 610 0 0
+/Images/middleware.jpg
+1 1 0 41023 0 0
+/Images/IT-Infrastructure-Services2.jpg
+1 1 0 78851 0 0
+/Images/WindowsSelfHeal.png
+1 1 0 115894 0 0
+/Product.html
+0 1 0 13649 0 0
+/Images/MiddlewareSelfhealing.png
+1 1 0 99149 0 0
+/Images/DataBaseSelf-Healing.png
+1 1 0 118550 0 0
+/Images/Professional-Business.jpg
+1 3 0 641022 0 0
+/font-awesome/css/font-awesome.min.css
+0 3 0 65952 0 0
+/Images/NetworkMonitoring.png
+1 1 0 59581 0 0
+/css/modern-business.css
+0 3 0 4206 0 0
+/js/jqBootstrapValidation.js
+0 1 0 320 0 0
+/Images/banner_network.jpg
+1 3 0 147462 0 0
+/css/bootstrap.min.css
+0 3 0 363780 0 0
+/Images/innerbanner.jpg
+1 3 0 143874 0 0
+/contact.html
+0 2 0 21884 1 0
+/Images/Linux.jpg
+1 1 0 7095 0 0
+/Images/Windows.png
+1 1 0 28119 0 0
+/
+0 11 0 105454 6 0
+/Images/networking.png
+1 1 0 35870 0 0
+/Images/DC.jpg
+1 3 0 50457 0 0
+/Images/Server_White.jpg
+1 3 0 37956 0 0
+/Images/our_business.jpg
+1 1 0 185209 0 0
+/Images/LinuxSelfHealing.png
+1 1 0 174569 0 0
+/services.html
+0 1 0 25602 0 0
+/Images/AutomationImg.jpg
+1 3 0 203406 0 0
+# End Of Table - urls
+# -sites- (monthly)
+14.100.132.105
+0 69 36 1907784 1 1467250745
+/contact.html
+69.175.67.58
+0 2 1 1879 1 1467246909
+-
+14.100.136.216
+0 23 9 284275 1 1467249292
+/
+123.143.201.77
+0 15 2 22874 1 1467247985
+/
+220.227.89.237
+0 15 14 759056 1 1467250039
+/
+50.117.89.108
+0 1 1 10942 1 1467249615
+/contact.html
+198.241.211.15
+0 11 6 187196 1 1467250866
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+14.100.132.105
+0 69 36 1907784 1 1467250745
+/contact.html
+69.175.67.58
+0 2 1 1879 1 1467246909
+-
+14.100.136.216
+0 23 9 284275 1 1467249292
+/
+123.143.201.77
+0 15 2 22874 1 1467247985
+/
+220.227.89.237
+0 15 14 759056 1 1467250039
+/
+50.117.89.108
+0 1 1 10942 1 1467249615
+/contact.html
+198.241.211.15
+0 11 6 187196 1 1467250866
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://gryphonsystem.com/services.html
+1 12
+http://gryphonsystem.com/
+1 54
+http://www.google.com/url
+1 2
+http://gryphonsystem.com/Product.html
+1 5
+http://gryphonsystem.com/faq.html
+1 1
+- (Direct Request)
+0 13
+http://gryphonsystem.com/font-awesome/css/font-awesome.min.css
+1 1
+Google
+2 2
+http://www.gryphonsystem.com/
+1 17
+http://gryphonsystem.com/index.html
+1 9
+http://gryphonsystem.com/about.html
+1 20
+http://gryphonsystem.com/contact.html
+1 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 115
+Netscape 6 compatible
+2 115
+Netscape 4 (or compatible)
+2 3
+Mozilla/4.0 (compatible;)
+0 3
+MSIE 8.0
+0 1
+MSIE 9.0
+0 16
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
